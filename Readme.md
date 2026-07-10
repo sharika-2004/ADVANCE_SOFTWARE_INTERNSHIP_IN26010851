@@ -38,6 +38,3 @@ Password: admin123
 
 > Replace these credentials if you created different users in your database.
 
-## Author
-
-Omal Hari
